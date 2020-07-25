@@ -5,6 +5,9 @@ body{
   background-color: #EAF6F6;
   color: #40514E;
 }
+p{
+  line-height: 2;
+}
 
 h1{
   color:#66BFBF;
@@ -59,7 +62,7 @@ hr{
   text-align: left;
   width: 50%;
   margin: 100px auto;
-  line-height: 2;
+
 }
 .computer{
   margin-right: 30px;
@@ -144,4 +147,8 @@ hr{
 }
 .h3-contact{
   margin-bottom: 40px;
+}
+.hello{
+  width: 30%;
+  margin:auto;
 }
