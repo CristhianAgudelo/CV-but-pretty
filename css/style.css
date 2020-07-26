@@ -4,6 +4,7 @@ body{
   font-family: 'Merriweather',serif;
   background-color: #EAF6F6;
   color: #40514E;
+  font-size: 1em;
 }
 p{
   line-height: 2;
@@ -47,6 +48,7 @@ hr{
   position:relative;
   padding-top: 100px;
 
+  margin:auto;
 }
 .middleContainer{
 
@@ -77,13 +79,13 @@ hr{
 }
 .bottom-cloud{
   position: absolute;
-  right: 230px;
-  top: 50px;
+  right: 14.375em;
+  top: 3.125em;
 }
 .top-cloud{
   position: absolute;
-  left:250px;
-  top:250px;
+  right:59.375em;
+  top:15.625em;
 }
 .pro {
   text-decoration: underline;
@@ -151,4 +153,8 @@ hr{
 .hello{
   width: 30%;
   margin:auto;
+}
+.p-contact{
+  width: 30%;
+  margin:auto
 }
